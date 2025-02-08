@@ -1,4 +1,4 @@
-# Lab #1: Experiments with Hashing 
+# Lab #1: The Knight Tour problem
 
 * Author:   Vladyslav (Vlad) Maliutin
 * Class:    CS 421 - Algorithms
